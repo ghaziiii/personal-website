@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "personal-website",
   "version": "3.0.1",
-  "homepage": "https://ghaziii.github.io/personal-site",
+  "homepage": "https://ghaziiii.github.io/personal-website",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ghaziii/personal-site.git"
+    "url": "https://github.com/ghaziiii/personal-website.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
